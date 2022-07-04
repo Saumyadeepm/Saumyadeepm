@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science & its core concepts
 - 💞️ I’m looking to collaborate on projects related to programming & data sciecnce
 - 📫 Feel free to approach me anytime & I would be glad to help
-      and collaborate 😊. 
+      and collaborate 😊. <br>
       Email:-                      
       saumyadeepmitra.12@gmail.com
 
