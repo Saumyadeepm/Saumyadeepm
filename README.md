@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saumyadeep Mitra
 - 👀 I’m interested in learning, exploring & experimenting 
 - 🌱 I’m currently learning Data Science & its core concepts
-- 💞️ I’m looking to collaborate on projects related to programming & data sciecnce
+- 💞️ I’m looking to collaborate on projects related to programming & data science
 - 📫 Feel free to approach me anytime & I would be glad to help
       and collaborate 😊. <br>
       Email:-                      
