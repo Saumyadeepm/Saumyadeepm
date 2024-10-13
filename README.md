@@ -155,6 +155,6 @@ Data Scientist | Machine Learning Engineer | Full Stack Developer
 
 ## 📫 Contact
 - Email: saumyadeepmitra.12@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saumyadeepmitra/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saumyadeepmitra/)
 
 *Open to collaborations and opportunities in Data Science and Machine Learning*
