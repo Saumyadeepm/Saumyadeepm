@@ -1,5 +1,5 @@
 # Saumyadeep Mitra
-Data Scientist | Machine Learning Engineer | Full Stack Developer
+Web3 Researcher | Data Scientist | Machine Learning Engineer | Full Stack Developer
 
 ## 🎓 Education
 **B.Sc. in Data Science** | CHRIST UNIVERSITY, Pune, India (2021-2024)
